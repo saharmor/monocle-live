@@ -164,3 +164,8 @@ temp_outputs/*
 node_modules/*
 .next/*
 .vscode/launch.json
+test.wav
+test_de.wav
+audio.raw
+.gitignore
+.gitignore
